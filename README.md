@@ -1,0 +1,2 @@
+# JavaMyTestSample
+テストようです
